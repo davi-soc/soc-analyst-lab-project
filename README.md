@@ -4,7 +4,7 @@ SOC Level 1 project with attack simulation and SIEM detection
 ## 📄 Main Report
 
 👉 Start here:  
-[📄 ./soc_l1_project_report.pdf]
+[📄 SOC L1 Project Report](./soc_l1_project_report.pdf)
 
 ---
 
