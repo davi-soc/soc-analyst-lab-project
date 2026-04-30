@@ -48,7 +48,6 @@ During the analysis:
 - Windows VM (Target)
 - Ubuntu (Elastic SIEM)
 - PowerShell
-- Atomic Red Team
 
 ---
 
