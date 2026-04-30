@@ -1,6 +1,12 @@
 # soc-analyst-lab-project
 SOC Level 1 project with attack simulation and SIEM detection
 
+## 📄 Main Report
+
+👉 Start here:  
+[📄 SOC L1 Project Report](./SOC_L1_PROJECT.pdf)
+
+---
 
 ## 📌 Overview
 
